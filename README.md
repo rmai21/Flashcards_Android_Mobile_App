@@ -6,9 +6,10 @@
 This application shows the first Question on the flashcards app. When you click on the Question, you're able to see the answer while the question will disappear. 
 
 ### App Walk-though
-<img src="https://imgur.com/a/1eBxGTK.gif" width=200><br>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/1eBxGTK"  ><a href="//imgur.com/a/1eBxGTK">Lab01_Maisuria</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/cB8qlJl.gif" width=200><br>
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/1eBxGTK"  ><a href="//imgur.com/a/1eBxGTK">Lab01_Maisuria</a></blockquote>
 
 ## Required
 - [X] Create New Project in Android Studio
